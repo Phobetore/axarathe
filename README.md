@@ -1,5 +1,4 @@
 # Axarathe
-A website for an RPG
+A website for an RPG.
 
-
-(don't worry, it's comming)
+Searching how to creat interactive custom JS map.
